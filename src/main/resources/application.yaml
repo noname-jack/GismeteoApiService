@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: GismeteoApiParser
+gismeteo:
+  base-url: https://api.gismeteo.net
+  token: не дам, незя
